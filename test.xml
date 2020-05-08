@@ -1,0 +1,75 @@
+<serverinfo> 
+    <servername>ElationMS</servername> <!-- Your server name. --> 
+    <websiteurl>http://elationms.me/?base=main</websiteurl> <!-- The URL to the website. --> 
+    <forumurl>http://elationms.me/?base=main</forumurl> <!-- The URL to the forum. --> 
+    <voteurl>http://elationms.me/?base=main</voteurl> <!--The URL to the voting page. --> 
+
+    <exprate>4x</exprate> <!-- The server's EXP rate. --> 
+    <mesorate>3x</mesorate> <!-- The server's meso rate. --> 
+    <droprate>2x</droprate> <!-- The server's drop rate.--> 
+</serverinfo> 
+
+<news> <!-- Recent news goes on top. Goes from newer -> older from top to bottom. --> 
+    <title>More Recent News</title> <!-- The title of the news. --> 
+    <message>This is a more recent news.</message> <!-- The message of the news. --> 
+
+    <title>Old News</title> 
+    <message>This is an older news.</message> 
+</news> 
+
+<downloads> <!-- Sizes are in bytes. The download link has to be a direct download link. -->
+	<client_link>https://cdn.discordapp.com/attachments/403661797770395648/702659050223042631/ElationMS.exe</client_link> <!-- The direct download link to the file. -->
+	<client_size>9920512</client_size> <!-- The size in bytes of the file. -->
+	<client_name>ElationMS.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
+
+	<base_link>https://www.dropbox.com/s/o7cqs3nol2exkxs/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
+	<base_size>6540</base_size> <!-- The size in bytes of the file. -->
+
+	<character_link>https://www.dropbox.com/s/ng9lgfs0016x09i/Character.wz?dl=1</character_link>
+	<character_size>532691892</character_size>
+
+	<effect_link>https://www.dropbox.com/s/wgceh1vvdcllmux/Effect.wz?dl=1</base_link>
+	<effect_size>95187810</effect_size>
+
+	<etc_link>https://www.dropbox.com/s/v1iwgtsjwj58yed/Etc.wz?dl=1</etc_link>
+	<etc_size>1309436</etc_size>
+
+	<item_link>https://www.dropbox.com/s/85wp9pxwo5bkqlu/Item.wz?dl=1</item_link>
+	<item_size>26782847</item_size>
+
+	<list_link>https://www.dropbox.com/s/xpdj01ulb207lz1/List.wz?dl=1</list_link>
+	<list_size>13336</list_size>
+
+	<map_link>https://www.dropbox.com/s/50kxdc7wy5bqh3p/Map.wz?dl=1</map_link>
+	<map_size>794423158</map_size>
+
+	<mob_link>https://www.dropbox.com/s/g9souxop5f6w6c7/Mob.wz?dl=1</mob_link>
+	<mob_size>605634929</mob_size>
+
+	<morph_link>https://www.dropbox.com/s/9swkz4gxvnfh8rs/Morph.wz?dl=1</morph_link>
+	<morph_size>6204606</morph_size>
+
+	<npc_link>https://www.dropbox.com/s/6u5hfy6zppivp45/Npc.wz?dl=1</npc_link>
+	<npc_size>56438311</npc_size>
+
+	<quest_link>https://www.dropbox.com/s/4166r3rknq4qtmd/Quest.wz?dl=1</quest_link>
+	<quest_size>6045763</quest_size>
+
+	<reactor_link>https://www.dropbox.com/s/23k8w27kuxcyqqm/Reactor.wz?dl=1</reactor_link>
+	<reactor_size>58053788</reactor_size>
+
+	<skill_link>https://www.dropbox.com/s/09jhwfsuegbimsd/Skill.wz?dl=1</skill_link>
+	<skill_size>76505986</skill_size>
+
+	<sound_link>https://www.dropbox.com/s/2amtnjhuk0kd9ys/Sound.wz?dl=1</sound_link>
+	<sound_size>423722956</sound_size>
+
+	<string_link>https://www.dropbox.com/s/vy057vx6wq9zxt5/String.wz?dl=1</string_link>
+	<string_size>5550812</string_size>
+
+	<tamingmob_link>https://www.dropbox.com/s/e2sy16uwa3egmdk/TamingMob.wz?dl=1</tamingmob_link>
+	<tamingmob_size>797</tamingmob_size>
+
+	<ui_link>https://www.dropbox.com/s/v7sqsko4czexomw/UI.wz?dl=1</ui_link>
+	<ui_size>35352519</ui_size>
+</downloads>
