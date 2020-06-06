@@ -22,10 +22,10 @@
 	<client_size>9920512</client_size> <!-- The size in bytes of the file. -->
 	<client_name>ElationMS.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
 
-	<base_link>https://www.dropbox.com/s/zi7oaam63gqearh/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
+	<base_link>https://www.dropbox.com/s/9t6u0ipmu6d638u/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
 	<base_size>6540</base_size> <!-- The size in bytes of the file. -->
 
-	<character_link>https://www.dropbox.com/s/73wh0smilwmic6w/Character.wz?dl=1>
+	<character_link>https://www.dropbox.com/s/73wh0smilwmic6w/Character.wz?dl=1</character_link>
 	<character_size>532691868</character_size>
 
 	<effect_link>https://drive.google.com/uc?export=download&id=1g7BkGoLX15KcPyVgoaUuqu_LgBKXh9Yl</base_link>
