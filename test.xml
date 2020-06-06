@@ -22,54 +22,54 @@
 	<client_size>9920512</client_size> <!-- The size in bytes of the file. -->
 	<client_name>ElationMS.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
 
-	<base_link>https://www.dropbox.com/s/9t6u0ipmu6d638u/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
+	<base_link>https://www.dropbox.com/s/zi7oaam63gqearh/Base.wz?dl=1</base_link> <!-- The direct link to the file -->
 	<base_size>6540</base_size> <!-- The size in bytes of the file. -->
 
-	<character_link>https://www.dropbox.com/s/73wh0smilwmic6w/Character.wz?dl=1</character_link>
-	<character_size>532691868</character_size>
+	<character_link>https://www.dropbox.com/s/2h8e59h566kanwa/Character.wz?dl=1</character_link>
+	<character_size>186792151</character_size>
 
-	<effect_link>https://drive.google.com/uc?export=download&id=1g7BkGoLX15KcPyVgoaUuqu_LgBKXh9Yl</effect_link>
-	<effect_size>95187810</effect_size>
+	<effect_link>https://www.dropbox.com/s/irxtpocq87h1ss2/Effect.wz?dl=1</base_link>
+	<effect_size>63334965</effect_size>
 
-	<etc_link>https://drive.google.com/uc?export=download&id=1Q1KZlBpcGZLDza3j4w_jkj-QHJv3b9gn</etc_link>
-	<etc_size>1309436</etc_size>
+	<etc_link>https://www.dropbox.com/s/2ko4uad5bydpo63/Etc.wz?dl=1</etc_link>
+	<etc_size>1201101</etc_size>
 
-	<item_link>https://drive.google.com/uc?export=download&id=1J0R_N6zwSZ7tcSYhmadZwMCtrWsO5mtp</item_link>
-	<item_size>26782847</item_size>
+	<item_link>https://www.dropbox.com/s/dvoub5hu52238v9/Item.wz?dl=1</item_link>
+	<item_size>18361778</item_size>
 
-	<list_link>https://drive.google.com/uc?export=download&id=152QnRMDe9x7EmbGb3cdqXhS2rqfOx_yC</list_link>
+	<list_link>https://www.dropbox.com/s/7bfjubjiksc9vpp/List.wz?dl=1</list_link>
 	<list_size>13336</list_size>
 
-	<map_link>https://drive.google.com/uc?export=download&id=1dbCcG3S1ZtrdAW7SgrQW9oXLBxNF4cYE</map_link>
-	<map_size>794423158</map_size>
+	<map_link>https://www.dropbox.com/s/n02zawj3ynq8nce/Map.wz?dl=1</map_link>
+	<map_size>635444895</map_size>
 
-	<mob_link>https://drive.google.com/uc?export=download&id=1qiRJ3_pMH2teY2-SeEC9hhEHFfNsvKii</mob_link>
-	<mob_size>605634929</mob_size>
+	<mob_link>https://www.dropbox.com/s/9cwdodqpfsjwa4k/Mob.wz?dl=1</mob_link>
+	<mob_size>479665103</mob_size>
 
-	<morph_link>https://drive.google.com/uc?export=download&id=18kyZr4SyqaNkFsHGDh_G7OOZeqFq1CUG</morph_link>
+	<morph_link>https://www.dropbox.com/s/i54huwfo0e9k5zz/Morph.wz?dl=1</morph_link>
 	<morph_size>6204606</morph_size>
 
-	<npc_link>https://drive.google.com/uc?export=download&id=1Et4aDPddA8koC6hCe5R5kNQsq24Gqp2e</npc_link>
-	<npc_size>56472872</npc_size>
+	<npc_link>https://www.dropbox.com/s/48vxli6nxpl46hq/Npc.wz?dl=1</npc_link>
+	<npc_size>51137866</npc_size>
 
-	<quest_link>https://drive.google.com/uc?export=download&id=1mwgn0hBLBjYbq68vpITl6_hxr6veKWC7</quest_link>
-	<quest_size>6045763</quest_size>
+	<quest_link>https://www.dropbox.com/s/0rpv7weuyyuzqcd/Quest.wz?dl=1</quest_link>
+	<quest_size>5971537</quest_size>
 
-	<reactor_link>https://drive.google.com/uc?export=download&id=15e_2BlPxX5Z0qxiE4q6sAWCZfFPCv17O</reactor_link>
-	<reactor_size>58053788</reactor_size>
+	<reactor_link>https://www.dropbox.com/s/6ygr0ph1zc9ktsl/Reactor.wz?dl=1</reactor_link>
+	<reactor_size>54133811</reactor_size>
 
-	<skill_link>https://drive.google.com/uc?export=download&id=15e_2BlPxX5Z0qxiE4q6sAWCZfFPCv17O</skill_link>
-	<skill_size>76505986</skill_size>
+	<skill_link>https://www.dropbox.com/s/rsoq7wz4ilj404w/Skill.wz?dl=1</skill_link>
+	<skill_size>76874780</skill_size>
 
-	<sound_link>https://drive.google.com/uc?export=download&id=1OCdcNJMfMT9e34jeop3EjYjtXSM93BAr</sound_link>
-	<sound_size>423722956</sound_size>
+	<sound_link>https://www.dropbox.com/s/lpmg415a8owtzvh/Sound.wz?dl=1</sound_link>
+	<sound_size>363261964</sound_size>
 
-	<string_link>https://drive.google.com/uc?export=download&id=1DbUHSaOA4p51ZKHbFYcffNORUJhjlHsc</string_link>
-	<string_size>4379570</string_size>
+	<string_link>https://www.dropbox.com/s/mnjpuwomnul05da/String.wz?dl=1</string_link>
+	<string_size>3251564</string_size>
 
-	<tamingmob_link>https://drive.google.com/uc?export=download&id=1eHX7IjfDiGFyUBeOxzzn6qQ6Q93JWHwq</tamingmob_link>
+	<tamingmob_link>https://www.dropbox.com/s/k9v4iwdoz48x8g0/TamingMob.wz?dl=1</tamingmob_link>
 	<tamingmob_size>797</tamingmob_size>
 
-	<ui_link>https://drive.google.com/uc?export=download&id=1KlN7JUc3pkaYnYfMS2ILxvUv6iaI1u13</ui_link>
-	<ui_size>35352519</ui_size>
+	<ui_link>https://www.dropbox.com/s/bdxywid1cdw2xxm/UI.wz?dl=1</ui_link>
+	<ui_size>28259933</ui_size>
 </downloads>
