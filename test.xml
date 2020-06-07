@@ -18,7 +18,7 @@
 </news>
 
 <downloads> <!-- Sizes are in bytes. The download link has to be a direct download link. -->
-	<client_link>https://www.dropbox.com/s/zntyb1mqoomzva9/ElationMS.exe?dl=1</client_link> <!-- The direct download link to the file. -->
+	<client_link>https://cdn.discordapp.com/attachments/403661797770395648/702659050223042631/ElationMS.exe</client_link> <!-- The direct download link to the file. -->
 	<client_size>9920512</client_size> <!-- The size in bytes of the file. -->
 	<client_name>ElationMS.exe</client_name> <!-- The client's file name. ( Include the .exe ) -->
 
